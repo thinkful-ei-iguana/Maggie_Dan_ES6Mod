@@ -1,4 +1,4 @@
-
+import item from './item.js';
 
 const items = [];
 

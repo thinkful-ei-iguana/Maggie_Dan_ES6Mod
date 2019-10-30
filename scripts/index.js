@@ -10,4 +10,4 @@ const main = function () {
 
 $(main);
 
-console.log(store, items);
+console.log(store, item);
